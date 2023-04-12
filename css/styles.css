@@ -1,8 +1,11 @@
 body{
     background-color: #1a2f58;
 }
+h1{
+    text-align: center;
+    color: black;
+}
 img{
-    margin: auto;
-    width: 50%;
-    padding: 10px;
+    margin:0px auto;
+    display:block; 
 }
